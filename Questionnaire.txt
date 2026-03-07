@@ -1,0 +1,60 @@
+Questionnaire
+1. Age	
+2. Gender	
+3. Area of Residence	
+4. Educational Qualification	
+5. Annual Income	
+6. On a scale of 1 to 5, how would you rate the availability of affordable and nutritious food options in your community?	
+7. How far is the nearest grocery store or market from your residence?	
+8. Have you ever experienced shortages or stockouts of essential food items in local shops or markets?	
+9. On average, how much time do you spend traveling to purchase groceries or food items?	
+10. On average, how much of your monthly income do you allocate towards purchasing food?	
+11. How reliable do you find transportation options to access food retailers or markets in your community?	
+12. How frequently do you consume locally sourced food products?	
+13. What factors influence your decision to choose locally sourced food products? (Select all that apply)	
+14. How frequently do you consume processed or packaged food items?	
+15. How frequently do you consume fast food or takeout meals?	
+16. Do you follow any specific dietary restrictions or guidelines (e.g., vegetarian, vegan, gluten-free)?	
+17. How often do you eat meals together with family or household members?	
+18. Have you experienced food insecurity in the past year?	
+19. How often do you feel that the food you have access to is of poor quality or has insufficient nutritional value?	
+20. How satisfied are you with the variety of food available to you within your budget?	
+21. Have you or any family members experienced weight loss or malnutrition due to lack of access to adequate food?	
+22. Do you ever rely on food aid or assistance from charitable organizations to meet your nutritional needs?	
+23. How frequently do you skip meals due to financial constraints or lack of access to food?	
+24. Have you or your family members ever benefited from government food assistance programs such as the Public Distribution System (PDS) or the Mid-Day Meal Scheme?	
+25. How supportive do you find your community in addressing food justice issues?	
+26. How often do you participate in community events or activities related to food (e.g., food drives, community meals)?	
+27. Do you believe that food justice and equity should be a priority for government policies?	
+28. How aware are you of government policies related to food security and nutrition?	
+29. Have you ever participated in advocacy or activism efforts aimed at improving food access and security in your community?	
+30. How often do you consider the environmental impact of your food choices (e.g., carbon footprint, water usage, deforestation)?	
+31. Are you willing to pay a premium for food products that are produced in an environmentally sustainable manner?	
+32. How frequently do you grow your own food (e.g., vegetables, herbs) at home or in a community garden?	
+33. How important is it for you to choose food products that are packaged in environmentally friendly materials (e.g., recyclable, biodegradable)?	
+34. How often do you incorporate locally sourced ingredients into your meals?	
+35. When making food choices, which factor influences you the most?	
+36. To what extent do cultural traditions influence your food choices?	
+37. How often do you share meals with family members or friends to maintain cultural traditions or social connections? 	
+38. How comfortable do you feel expressing your dietary preferences or restrictions in social settings (e.g., family gatherings, social events)?	
+39. How important is it for you to preserve and pass down traditional recipes or culinary practices within your family or community?	
+40. How well do you think your community celebrates and promotes diverse food cultures?	
+41. To what extent do you agree with the statement, "Cooking skills are an important part of a healthy lifestyle"?	
+42. Have you experienced discrimination based on caste, ethnicity, or socio-economic status when accessing food resources?	
+43. Have you ever avoided bringing certain foods or meals to school or work because you were afraid of being judged or shamed by others?	
+44. Do you believe that schools or workplaces should implement policies or education programs to address lunchbox shaming and promote food acceptance and inclusivity?	
+45. Have you (or any close one) ever faced challenges in accessing food resources due to physical disabilities or mobility issues?	
+46. How often do you encounter barriers such as language or cultural differences when accessing information about food resources or nutrition?	
+47. Do you think there is sufficient awareness and action within your community to address food justice issues?	
+48. Do you use online grocery delivery services or food ordering apps?	
+49. Would you be comfortable using blockchain technology to track the origin and sustainability of food products?	
+50. How often do you use food tracking or calorie counting apps to monitor your dietary intake?	
+51. Do you believe that technology has positively or negatively impacted people's overall relationship with food?	
+52. How often do you engage with food-related content on streaming platforms (e.g., cooking shows, food documentaries)?	
+53. How often do you use technology (e.g., smart kitchen appliances, cooking apps) to assist you in meal preparation or cooking?	
+54. How knowledgeable do you feel about the connection between nutrition and mental health?	
+55. Do you believe there is a stigma associated with talking about food insecurity or mental health?	
+56. How often do you experience changes in your appetite or eating habits during periods of stress or emotional distress?	
+57. Have you ever sought professional help or counseling for mental health concerns related to food, such as disordered eating or emotional eating?	
+58. Do you think mental health support services should include resources or programs specifically addressing the relationship between food and mental well-being? 	
+59. Have you ever used food as a coping mechanism during times of stress, sadness, or anxiety?
